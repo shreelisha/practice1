@@ -5,4 +5,3 @@ This is git practice class
 
 
 
-practicing with github
